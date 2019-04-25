@@ -1,17 +1,16 @@
 h1 {
     color: black;
-    font-family: "Papyrus", Andale Mono, sans-serif; 
+    font-family: sans-serif; 
     font-size: 18px
 }
-p {
+h2 {
 	color: Blue; 
 	font-family: Sans-serif;
 	font-size: 12px;
 }
-img {
-	width: 100px
+a:link {
+	text-decoration: none;
 }
-ul {
-    font-family: Sans-serif;
-	font-size: 12px;
+a:hover {
+  text-decoration: underline;
 }
